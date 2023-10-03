@@ -1,0 +1,16 @@
+body {
+    display: -moz-box;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #ff0000;
+}
+h1 {
+    border: 5px solid #ffffff;
+    padding: 50px; 
+    text-align: center;
+    margin: 10px;
+    color: white;
+}
